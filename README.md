@@ -1,6 +1,6 @@
 # IoT Greenhouse — Smart Greenhouse Project
 
-**Short description**  
+
 This project demonstrates a smart greenhouse using IoT technology. By using sensors and actuators, the system automates environmental control (temperature, humidity, light intensity, irrigation) to keep optimal growth conditions for plants. The simulation was developed using Cisco Packet Tracer (simulation), and data analysis and automation logic are described in the project report.
 
 
@@ -18,7 +18,7 @@ Demonstrate the potential of IoT in agriculture and contribute to more sustainab
 
 ---
 
-## Overview / Introduction
+## Overview :
 
 This smart greenhouse project uses a set of sensors to gather environmental data and actuators to react automatically. The system architecture is wireless (Wi-Fi), giving flexibility for sensor/actuator placement and easy configuration via a central control server.
 
@@ -91,9 +91,8 @@ DHCP is used to automatically assign IP addresses, subnet masks, and gateways to
   - If water level < Z% → trigger reservoir refill + alert.
   - If motion detected during closed hours → trigger alarm and start recording.
 
-_(If the Packet Tracer `.pkt` file is missing, see “Recreate the simulation” below.)_
 
----
+
 
 ## Screenshots
 
